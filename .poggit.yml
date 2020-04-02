@@ -2,6 +2,5 @@
 build-by-default: true
 branches:
 - master
-projects: 
-   Cratekeys: 
+projects: []
 ...
