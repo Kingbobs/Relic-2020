@@ -15,3 +15,4 @@ And Starte Mining
 
 
 
+jj
