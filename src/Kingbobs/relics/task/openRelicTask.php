@@ -1,6 +1,6 @@
 <?php
 
-namespace relics;
+namespace task\relics;
 
 use pocketmine\command\ConsoleCommandSender;
 use pocketmine\level\particle\ExplodeParticle;
