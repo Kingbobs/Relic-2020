@@ -1,6 +1,6 @@
 <?php
 
-namespace task\relics;
+namespace Kingbobs\task\relics\task;
 
 use pocketmine\command\ConsoleCommandSender;
 use pocketmine\level\particle\ExplodeParticle;
