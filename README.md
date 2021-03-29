@@ -3,9 +3,6 @@
 ## Information
 This Relics Plugin is simple To Use. Eveything is config.
 
-## Config
-
-Common:
   # Name of relic when receiving the relic
   Name: "&bCommon Relics"
   
