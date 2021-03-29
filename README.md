@@ -11,12 +11,16 @@ This Relics Plugin is simple To Use. Eveything is config.
   
   # Messages to run
   Message:
+  
     Receive: "You found a Common relic"
-    
     Opening: "Opening Common relic"
  
   Commands:
-  
   - "give {PLAYER} diamond_block 3"
+  - "say {PLAYER} Has Oppened an Relic"
+
+[-] 2021
+
+
 
 
